@@ -31,7 +31,7 @@ export default {
     placeholder: '请输入搜索的用户姓名'
   },
   message: {
-    updeteSuccess: '更新成功'
+    updateSuccess: '更新成功'
   },
   driver: {
     doneBtnText: '完成',

@@ -1,24 +1,14 @@
-# vue_3.2
+# vue_3.2后台管理系统
+账号：admin 
+密码：123456
+## 技术栈
+vue3 + element-plus + ES6 + axios + i18n国际化
 
-## Project setup
+### demo简述
 ```
-yarn install
-```
+本demo主要用于熟悉如何使用vue3和element-plus架构一个后端管理平台项目
 
-### Compiles and hot-reloads for development
+#### 完成功能
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+登陆 --完成
+用户管理 (增加、编辑、搜索、删除、刷新缓存) --完成
