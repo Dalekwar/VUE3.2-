@@ -4003,6 +4003,14 @@
     "jsbn" "~0.1.0"
     "safer-buffer" "^2.1.0"
 
+"echarts@^5.1.2":
+  "integrity" "sha512-okUhO4sw22vwZp+rTPNjd/bvTdpug4K4sHNHyrV8NdAncIX9/AarlolFqtJCAYKGFYhUBNjIWu1EznFrSWTFxg=="
+  "resolved" "https://registry.npmmirror.com/echarts/-/echarts-5.1.2.tgz"
+  "version" "5.1.2"
+  dependencies:
+    "tslib" "2.0.3"
+    "zrender" "5.1.1"
+
 "editor@1.0.0":
   "integrity" "sha512-SoRmbGStwNYHgKfjOrX2L0mUvp9bUVv0uPppZSOMAntEbcFtoC3MKF5b3T6HQPXKIV+QGY3xPO3JK5it5lVkuw=="
   "resolved" "https://registry.npmmirror.com/editor/download/editor-1.0.0.tgz"
@@ -9578,6 +9586,11 @@
   "resolved" "https://registry.npmmirror.com/tslib/download/tslib-1.14.1.tgz"
   "version" "1.14.1"
 
+"tslib@2.0.3":
+  "integrity" "sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ=="
+  "resolved" "https://registry.npmmirror.com/tslib/-/tslib-2.0.3.tgz"
+  "version" "2.0.3"
+
 "tty-browserify@0.0.0":
   "integrity" "sha1-oVe6QC2iTpv5V/mqadUk7tQpAaY="
   "resolved" "https://registry.nlark.com/tty-browserify/download/tty-browserify-0.0.0.tgz"
@@ -10393,3 +10406,10 @@
     "is-ci" "^1.0.10"
     "normalize-path" "^1.0.0"
     "strip-indent" "^2.0.0"
+
+"zrender@5.1.1":
+  "integrity" "sha512-oeWlmUZPQdS9f5hK4pV21tHPqA3wgQ7CkKkw7l0CCBgWlJ/FP+lRgLFtUBW6yam4JX8y9CdHJo1o587VVrbcoQ=="
+  "resolved" "https://registry.npmmirror.com/zrender/-/zrender-5.1.1.tgz"
+  "version" "5.1.1"
+  dependencies:
+    "tslib" "2.0.3"

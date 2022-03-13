@@ -1,7 +1,9 @@
 <template>
-  <div>rights</div>
+  <dataPage></dataPage>
 </template>
 
-<script setup></script>
+<script setup>
+import dataPage from '@/components/dataPage'
+</script>
 
 <style lang="scss" scoped></style>
